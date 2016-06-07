@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义CustomTextView第一步-->
+    <declare-styleable name="CustomTextView">
+        <!--自定义CustomTextView的文本-->
+        <attr name="CustomTextViewText" format="string" />
+        <!--自定义CustomTextView的颜色-->
+        <attr name="CustomTextViewColor" format="color" />
+        <!--自定义CustomTextView的大小-->
+        <attr name="CustomTextViewSize" format="dimension" />
+    </declare-styleable>
+</resources>

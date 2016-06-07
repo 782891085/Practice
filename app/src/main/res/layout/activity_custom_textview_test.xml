@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:txt="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.ekemp.practice.view.CustomTextView
+        android:layout_width="wrap_content"
+        txt:CustomTextViewText="瓦大大是"
+        txt:CustomTextViewColor="#ff0000"
+        txt:CustomTextViewSize="32sp"
+        android:layout_height="wrap_content" />
+</LinearLayout>
